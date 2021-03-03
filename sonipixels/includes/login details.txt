@@ -1,0 +1,4 @@
+Login details:
+
+username: crowned prince
+password: 0000

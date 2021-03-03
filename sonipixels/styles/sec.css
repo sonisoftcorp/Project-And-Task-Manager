@@ -1,0 +1,26 @@
+.sec{
+	border: 2px solid;
+	border-color: rgba(0, 0, 0, 0.1);
+	padding: 20px 30px 10px 30px;
+	margin-top: 20px;
+	background-color: rgba(0, 0, 0, 0.01);
+	transition: linear 0.1s;
+	overflow: visible;
+}
+
+p,h1,h2,h3{
+	opacity: 0.8;
+}
+
+.logo{
+	position: relative;
+	top: -80px;
+	left: 1050px;
+	z-index: 99;
+}
+
+.sec:hover{
+	background-color: rgba(0, 0, 0, 0.001);
+	border-color: rgba(0, 0, 0, 0.1);
+
+}
